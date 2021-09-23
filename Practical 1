@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>PRACTICAL-1</title>
+  </head>
+  <body style="background-color:powderblue;">
+    <h3>(1)<b>BOLD CHARACTER</b></h3><hr style="color:red">
+    <h3>(2)<i>ITALICS</i></h3><hr style="color:red">
+    <h3>(3)<u>UNDERLINE</u></h3><hr style="color:red">
+    <h3 style="color:red">(4)COLOURED TEXT</h3><hr style="color:red">
+    <h3 style="font-family:'Courier New';font-size:30px"">(5)Courier New</h3><hr style="color:red">
+    <p>
+      (6) This is a paragraph for practical 1.
+    </p><hr style="color:red">
+    <p>
+      (7)This is<br>a paragraph<br>with line breaks.
+    </p><hr style="background-color:red">
+    <marquee width="20%" direction="right" height="30px">
+    (8)This is a sample scrolling text that has scrolls in the right direction.
+    </marquee>
+    <hr>
+    <blink>(9) blink text</blink>
+    <hr>
+
+  </body>
+</html>
