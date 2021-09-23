@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>PRACTICAL 4</title>
+  </head>
+  <body>
+    <h1>COLLEGE FORM</h1>
+    <hr>
+    <form>
+     <label for="fname">First name:</label><br>
+     <input type="text" id="fname" name="fname"><br><br>
+     <hr>
+     <label for="cars">Choose a hobby:</label>
+     <select id="cars" name="cars">
+      <option value="dance">dance</option>
+      <option value="music">music</option>
+      <option value="drawing">drawing</option>
+      <option value="football">football</option>
+     </select>
+     <hr>
+     <textarea name="message" rows="10" cols="30">
+      write something about yourself.....
+     </textarea>
+     <br><br>
+     <input type="submit">
+    </form>
+  </body>
+</html>
