@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>PRACTICAL_2</title>
+  </head>
+  <body style="background-color:powderblue">
+    <h1 id="top">Links to Sections of The Same Page</h1>
+   <section>
+     <ul>
+       <li><a href="#section1">grocery items</a></li>
+       <li><a href="#section2">hobbies</a></li>
+       <li><a href="#section3">netflix shows</a></li>
+     </ul>
+   </section><hr>
+    <h2>ORDERED LIST</h2>
+    <ol>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ol>
+    <hr>
+   <h2>UNORDERED LIST</h2>
+    <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ul>
+    <hr>
+    <h2>IMAGE INSERT</h2>
+    <img src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="computer image" height="200" width="200">
+    <hr>
+   <section id="section1">
+     <h3>GROCERY ITEMS</h3>
+     <ul>
+       <li><a href="https://www.google.com/search?q=cofee&tbm=isch&ved=2ahUKEwjt5JKs0ZTzAhVzEysKHYREAWUQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgAMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnMgoIIxDvAxDqAhAnOgQIABBDOgUIABCABFClGljcHGDGKWgBcAB4AoABqQGIAbgDkgEDMC4zmAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=HjVMYe3dDvOmrAGEiYWoBg&bih=875&biw=1800&hl=hi">Coffee</a></li>
+       <li><a href="https://www.google.com/search?q=tea&sxsrf=AOaemvKZkEpeps9y5W2RR7Eodb9a9DZYuw:1632384329739&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMkPHA0ZTzAhXU7HMBHf92ATkQ_AUoAXoECAEQAw&biw=1800&bih=875&dpr=1.6">Tea</a></li>
+       <li><a href="https://www.google.com/search?q=milk&tbm=isch&ved=2ahUKEwjQqfHC0ZTzAhWZgEsFHY3dA8YQ2-cCegQIABAA&oq=milk&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIICAAQgAQQsQMyBwgAEIAEEAIyBAgAEEMyBAgAEEMyBQgAEIAEMgQIABBDMgQIABBDMgcIABCABBACOgsIABCABBCxAxCDAToKCAAQsQMQgwEQAjoNCAAQgAQQsQMQgwEQAjoKCCMQ7wMQ6gIQJzoHCCMQ7wMQJzoKCAAQgAQQsQMQAlDVzQFYy9kBYKLbAWgBcAB4AYABswGIAbgHkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=TTVMYZDPOJmBrtoPjbuPsAw&bih=875&biw=1800">Milk</a></li>
+     </ul>
+
+   </section><hr>
+
+    <section id="section2">
+    <h3>HOBBIES</h3>
+    <ul>
+      <li><a href="https://www.google.com/search?q=dance&tbm=isch&ved=2ahUKEwiyruPQ0ZTzAhU-nUsFHTyqDHQQ2-cCegQIABAA&oq=dance&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIHCAAQgAQQAjIECAAQQzIHCAAQgAQQAjIHCAAQgAQQAjIFCAAQgAQyBQgAEIAEMgcIABCABBACMgUIABCABDoHCCMQ7wMQJzoICAAQgAQQsQM6DQgAEIAEELEDEIMBEAI6CggjEO8DEOoCECc6BwgAELEDEAI6CggAELEDEIMBEAJQho8EWJWcBGDonQRoAXAAeAGAAZIBiAHfCJIBAzAuOJgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=azVMYfLMA766rtoPvNSyoAc&bih=875&biw=1800">dance</a></li>
+      <li><a href="https://www.google.com/search?q=music&tbm=isch&ved=2ahUKEwjjjq3y0ZTzAhXNoUsFHQo0DbAQ2-cCegQIABAA&oq=music&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIICAAQgAQQsQMyBwgAELEDEEMyBAgAEEMyBwgAEIAEEAIyCwgAEIAEELEDEIMBMgUIABCABDIECAAQQzoKCCMQ7wMQ6gIQJzoHCCMQ7wMQJzoKCAAQgAQQsQMQAjoKCAAQsQMQgwEQQ1CYpwFYs64BYPqwAWgBcAB4AIABnwGIAfoFkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=sTVMYaPyHM3DrtoPiui0gAs&bih=875&biw=1800">music</a></li>
+      <li><a href="https://www.google.com/search?q=football&tbm=isch&ved=2ahUKEwidxOf90ZTzAhWGs0sFHW-2BOkQ2-cCegQIABAA&oq=football&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIHCAAQgAQQAjIFCAAQgAQyBQgAEIAEMgUIABCABDIHCAAQgAQQAjIECAAQQzIECAAQQzIECAAQQzIFCAAQgAQ6BwgjEO8DECc6CAgAEIAEELEDOgsIABCABBCxAxCDAToKCAAQsQMQgwEQQzoKCAAQgAQQsQMQAjoKCCMQ7wMQ6gIQJzoHCAAQsQMQAjoKCAAQsQMQgwEQAlC0a1iYjQFg0I4BaAJwAHgAgAGuAYgBsw2SAQQwLjEymAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=yTVMYd27HobnrtoP7-ySyA4&bih=875&biw=1800">football</a></li>
+    </ul>
+  </section><hr>
+  <section id="section3">
+    <h3>NETFLIX SHOWS</h3>
+    <ul>
+      <li><a href="https://www.netflix.com/in/title/80192098">Money hiest</a></li>
+      <li><a href="https://www.netflix.com/in/title/80057918">lucifer</a></li>
+      <li><a href="https://www.netflix.com/in/title/81002370">Cobra kai</a></li>
+    </ul>
+  </section><hr>
+  </body>
+</html>
