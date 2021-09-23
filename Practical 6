@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>department</title>
+  </head>
+  <body>
+    <h1>About</h1>
+    <h3><a href="https://ramanujancollege.ac.in/department/department-of-statistics/" target="main">STATISTICS DEPARTMENT</a></h3>
+    <h3><a href="https://ramanujancollege.ac.in/department/department-of-mathematics/" target="main">MATHS DEPARTMENT</a></h3>
+    <h3><a href="https://ramanujancollege.ac.in/department/department-of-english/" target="main">ENGLISH DEPARTMENT</a></h3>
+  </body>
+</html>
