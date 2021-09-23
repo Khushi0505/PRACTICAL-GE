@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>PRACTICAL 3</title>
+  </head>
+  <body>
+    <table border="2">
+      <thead>
+        <tr>
+          <th style="width:10px">HEADING 1</th>
+          <th style="width:250px">HEADING 2</th>
+          <th style="width:250px">HEADING 3</th>
+          <th style="width:250px">HEADING 4</th>
+          <th style="width:200px">HEADING 5</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="height:30px" colspan="3"></td>
+          <td style="height:30px" colspan="3" rowspan="2"><img src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="computer image" height="200" width="200"></td>
+        </tr>
+        <tr>
+          <td style="height:30px" colspan="3"></td>
+        </tr>
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+
+    </table>
+  </body>
+</html>
