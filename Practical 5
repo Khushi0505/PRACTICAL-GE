@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>practical 5</title>
+  </head>
+  <body>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Roll No.</th>
+          <th>Student's Name</th>
+          <th>Grades</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>20201237</td>
+          <td>VISHAL YADAV</td>
+          <td>A1</td>          
+        </tr>
+        <tr>
+          <td>20201277</td>
+          <td>ROHAN AGGARWAL</td>
+          <td>B1</td>
+        </tr>
+        <tr>
+          <td>20201234</td>
+          <td>SONIA SHARMA</td>
+          <td>A2</td>
+        </tr>
+
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+
+    </table>
+  </body>
+</html>
